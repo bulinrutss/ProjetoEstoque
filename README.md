@@ -204,5 +204,10 @@ curl -X GET http://localhost:8080/controle-estoque-web/api/produtos \
 ## 🧾 Licença
 Este projeto é acadêmico, sem fins lucrativos, desenvolvido apenas para fins de aprendizagem **UNISUL**.
 
-## 🔗 Link do Projeto no GitHub
+## 🔗 Links do Projeto
+
+### 📌 Repositório GitHub
 👉 [https://github.com/bulinrutss/ProjetoEstoque](https://github.com/bulinrutss/ProjetoEstoque)
+
+### 🌐 Aplicação Web (Online)
+👉 [https://estoquejava.ruts.dev/](https://estoquejava.ruts.dev/)
