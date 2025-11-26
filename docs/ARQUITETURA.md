@@ -322,35 +322,3 @@ http://localhost:8080/controle-estoque-web/
 | **Views Swing** | ✅ | ❌ | ❌ |
 | **JSP** | ❌ | ✅ | ❌ |
 
----
-
-## 🛠️ Alterações Realizadas
-
-### **Mudanças na Estrutura:**
-
-1. ✅ Criada pasta `src/main/java/controller/`
-2. ✅ Movidos Servlets de `web-app/` para `src/`
-3. ✅ Removidos DAOs/Models duplicados de `web-app/`
-4. ✅ Adicionadas dependências Servlet no pom.xml principal
-5. ✅ Configurado `web-app/pom.xml` para depender do projeto principal
-
-### **Ajustes no Código:**
-
-1. ✅ Adicionado método `buscarPorId()` em `ProdutoDAO`
-2. ✅ Adicionado método `listarAbaixoMinimo()` em `ProdutoDAO`
-3. ✅ Adicionado método `listarAcimaMaximo()` em `ProdutoDAO`
-4. ✅ Adicionados métodos `getQuantidade()` e `setQuantidade()` em `Produto`
-
----
-
-## 🎯 Resultado Final
-
-✅ **Desktop funciona** usando back-end em `src/`
-✅ **Web funciona** usando back-end em `src/`
-✅ **Código único** para DAOs e Models
-✅ **Zero duplicação** de lógica de negócio
-✅ **Fácil manutenção** e expansão
-
----
-
-**Arquitetura implementada com sucesso!** 🎉
