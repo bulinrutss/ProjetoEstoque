@@ -2,6 +2,8 @@
 
 ## 👨‍💻 Integrantes do Projeto
 - MARCOS ANTONIO GASPERIN – RA: 10724265643
+- ERIK MARTINS - RA: 10724270275
+- VITOR FABIANO DA SILVA - RA: 10724262853
 
 ## 📝 Descrição do Projeto
 Este projeto tem como objetivo criar um sistema de controle de estoque utilizando Java e MySQL. O sistema permite o cadastro de categorias, produtos, movimentações de entrada e saída, além da geração de relatórios.
